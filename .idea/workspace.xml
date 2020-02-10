@@ -98,10 +98,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="chapter4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1581376667507">
+    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1581376783790">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581376667507" />
+    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581376783790" />
     <state x="475" y="231" key="Github.ShareDialog" timestamp="1581285439261">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -130,5 +130,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581360653526" />
+    <state x="452" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581376794019">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1581376794019" />
   </component>
 </project>
