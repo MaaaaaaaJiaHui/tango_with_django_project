@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc34636b-12ec-47b1-83b7-ef0d02c40388" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/populate_rango.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rango/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -81,7 +85,8 @@
       <workItem from="1581280116666" duration="5102000" />
       <workItem from="1581360653772" duration="12597000" />
       <workItem from="1581377389280" duration="264000" />
-      <workItem from="1581377732425" duration="1427000" />
+      <workItem from="1581377732425" duration="2025000" />
+      <workItem from="1581451887107" duration="9277000" />
     </task>
     <task id="LOCAL-00001" summary="chapter4">
       <created>1581376668670</created>
@@ -193,10 +198,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="235" y="86" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581376637973" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1581377736399">
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1581451887137">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581377736399" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581451887137" />
     <state x="452" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581376794019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
