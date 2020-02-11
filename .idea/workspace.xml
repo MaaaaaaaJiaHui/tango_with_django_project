@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc34636b-12ec-47b1-83b7-ef0d02c40388" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <workItem from="1581280116666" duration="5102000" />
       <workItem from="1581360653772" duration="12597000" />
       <workItem from="1581377389280" duration="264000" />
-      <workItem from="1581377732425" duration="292000" />
+      <workItem from="1581377732425" duration="1427000" />
     </task>
     <task id="LOCAL-00001" summary="chapter4">
       <created>1581376668670</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581376816496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter4">
+      <created>1581378252344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581378252344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +161,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="chapter4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1581376815393">
+    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1581378250555">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581376815393" />
+    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581378250555" />
     <state x="423" y="108" key="FileChooserDialogImpl" timestamp="1581376853408">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
